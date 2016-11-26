@@ -99,7 +99,7 @@ EOF
          ;;
 
 # 5. (3) UNBLOCK AMAZON OTA UPDATES
-    "3")  echo "you chose choice 3" 
+    "3")  echo "" 
           read -n1 -r -p "Ready to unblock Amazon auto-updates, press any key..." key
           adb wait-for-devices
           adb shell pm unhide com.amazon.otaverifier
