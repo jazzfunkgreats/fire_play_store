@@ -1,4 +1,4 @@
-# fire_play_store.sh
+# Google Play installer for Amazon Fire (for Linux!)
 A script for Linux to get the Google Play store on your Amazon Fire, which handily enough will also get rid of the 'special offers' if you were to buy said Fire for 30 quid on some kind of sale.
 
 Script was adapted from RootJunkys, and all files needed from the script can be found at their website here:
